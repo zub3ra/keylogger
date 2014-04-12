@@ -276,7 +276,6 @@ namespace WindowsFormsApplication1
                     return false;
                 }
             //return new Ping().Send("wwww.facebook.com", 1000).Status == System.Net.NetworkInformation.IPStatus.Success;
-            //Okulda çalışmıyor.
         }
         //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         public void connectMail()
