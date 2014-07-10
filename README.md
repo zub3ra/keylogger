@@ -4,10 +4,10 @@ Keylogger
 sysmm64 ~~ Keylogger 
 
 
-<ul>Marifetler</ul> 
+Marifetler 
 ====================
-<li>-Klavye okuma</li>
-<li>-.exe kopyalama</li>
-<li>-Screenshot görüntüsü alma</li>
-<li>-Açık pencere isimlerini alma</li>
-<li>-Bilgisayar isimlerini ve çeşitli bilgilerini alma</li>
+- Klavye okuma
+- .exe kopyalama
+- Screenshot görüntüsü alma
+- Açık pencere isimlerini alma
+- Bilgisayar isimlerini ve çeşitli bilgilerini alma
