@@ -3,11 +3,9 @@ Keylogger
 
 sysmm64 ~~ Keylogger 
 
-
-Marifetler 
 ====================
-- Klavye okuma
-- .exe kopyalama
-- Screenshot görüntüsü alma
-- Açık pencere isimlerini alma
-- Bilgisayar isimlerini ve çeşitli bilgilerini alma
+- Listen keyboard
+- .exe copying
+- Take screenshot
+- Get window's name 
+- Get PC Username etc.
